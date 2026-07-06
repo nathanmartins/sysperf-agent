@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/prometheus/client_golang v1.23.2
-	github.com/prometheus/procfs v0.21.0
+	github.com/prometheus/procfs v0.21.1
 	github.com/rs/zerolog v1.35.1
 )
 
